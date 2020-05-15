@@ -1,0 +1,36 @@
+{
+  "id": "e8517090-a90e-4f55-933e-5f8722feb569",
+  "parentId": "bee86cfc-6254-46ed-965a-56bbef84f3fa",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.us.motivacion - no",
+  "auto": true,
+  "contexts": [
+    "bienusmotivacion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.bienus-custom-3.bienusmotivacion-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¡Recuerde que fui capacitado para conectarlo con profesionales médicos voluntarios, información sobre el COVID-19 y ayudarlo a identificar los síntomas!\n\n¿En cuál estás interesado?\n👷 Voluntariado\n😃Información\n🤒Me siento enfermo"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

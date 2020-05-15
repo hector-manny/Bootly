@@ -1,0 +1,55 @@
+{
+  "id": "bee86cfc-6254-46ed-965a-56bbef84f3fa",
+  "parentId": "576a7b41-d8d8-43eb-b8b4-d1a0d7405866",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.us.motivacion",
+  "auto": true,
+  "contexts": [
+    "bienus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.bienus-custom-3",
+      "affectedContexts": [
+        {
+          "name": "bienusmotivacion-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6ffdf81c-ef34-40be-b12d-8b39b828ba21",
+          "required": false,
+          "dataType": "@profesiones",
+          "name": "profesiones",
+          "value": "$profesiones",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Quieres ponerte en contacto con un psicólogo? 👩"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

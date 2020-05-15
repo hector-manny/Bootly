@@ -1,0 +1,46 @@
+[
+  {
+    "id": "23c9ee1e-5b65-462c-90a3-3cbf040629f5",
+    "data": [
+      {
+        "text": "USA",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dcf4036-97c8-4d42-9125-6d14feec8f8b",
+    "data": [
+      {
+        "text": "🇺🇸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25344088-4cdb-4934-9200-f86262a892b2",
+    "data": [
+      {
+        "text": "🇺🇸 ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

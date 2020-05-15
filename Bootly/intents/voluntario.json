@@ -1,0 +1,62 @@
+{
+  "id": "c243d631-8ef4-46f4-893e-d377379c7cd9",
+  "name": "voluntario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "voluntario-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7737f1c5-5d1f-463e-b0b4-72f264030c81",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "61703c6a-fcca-4c9e-bb59-18e3375b2d20",
+          "required": false,
+          "dataType": "@animo",
+          "name": "animo",
+          "value": "$animo",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Estamos realmente agradecidos con ustedes por ayudarnos a salvar al mundo en esta emergencia global contra el COVID 19, estamos buscando héroes en las siguientes profesiones:\n👨‍⚕️ Medicina\n🤓 Psicología"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

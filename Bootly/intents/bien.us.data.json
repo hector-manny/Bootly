@@ -1,0 +1,36 @@
+{
+  "id": "a6f2fed6-b7d6-4702-a9cc-69c00b62e237",
+  "parentId": "576a7b41-d8d8-43eb-b8b4-d1a0d7405866",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.us.data",
+  "auto": true,
+  "contexts": [
+    "bienus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.bienus-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Aquí tiene información de los casos de *COVID 19* 👉 https://coronavirus.app/tracking/united-states"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

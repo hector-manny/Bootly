@@ -1,0 +1,225 @@
+[
+  {
+    "id": "f389f16f-d320-494e-b36d-e4056da806a4",
+    "data": [
+      {
+        "text": "bien",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e369bb1a-3fda-4c0b-98c3-51cfd7e5fc3c",
+    "data": [
+      {
+        "text": "genial",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e359266a-ca29-4812-b730-ae2abbb104c8",
+    "data": [
+      {
+        "text": "excelente",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac680de2-65fd-495c-8794-b4aba565c5d7",
+    "data": [
+      {
+        "text": "muy bien",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbf29bc3-14ee-481d-a16e-fea5a3b502a0",
+    "data": [
+      {
+        "text": "estoy bien",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26a13079-f06d-4b2e-9bce-ee1d9aacf262",
+    "data": [
+      {
+        "text": "Estoy bien",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      },
+      {
+        "text": " solo ",
+        "userDefined": false
+      },
+      {
+        "text": "busco",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noticias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbb8e6ab-7a5d-4d3d-9458-d5073eb70a27",
+    "data": [
+      {
+        "text": "Estoy bien",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      },
+      {
+        "text": " solo buscando noticias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "354a0098-1046-41b9-be7e-8ef31f4b05cf",
+    "data": [
+      {
+        "text": "me siento ",
+        "userDefined": false
+      },
+      {
+        "text": "bien",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bc4126b-a155-424e-afe6-5b39eab5c1b8",
+    "data": [
+      {
+        "text": "😃",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      },
+      {
+        "text": "Info",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c96f413e-af9c-47b6-b5aa-0a197d12d445",
+    "data": [
+      {
+        "text": "casos",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adbad2f5-23b6-4819-b5d6-d753fd2b1a70",
+    "data": [
+      {
+        "text": "Informacion",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac30b70c-6aae-4980-a6d5-7ef46e6cbaab",
+    "data": [
+      {
+        "text": "información",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f644e95a-0a03-432c-8a0b-8800291fbb59",
+    "data": [
+      {
+        "text": "info",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74869a1b-c128-46e6-8689-7d86c2a28fbd",
+    "data": [
+      {
+        "text": "😃",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

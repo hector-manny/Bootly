@@ -1,0 +1,82 @@
+[
+  {
+    "id": "4118be1d-0273-4120-9160-14327fd7fee7",
+    "data": [
+      {
+        "text": "Quién te creo bootly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62a7996b-0ffc-433b-abb9-b6deb9507f91",
+    "data": [
+      {
+        "text": "quien ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": " tu desarrollador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1acd5761-4cd9-428c-a4d4-51948e842cbb",
+    "data": [
+      {
+        "text": "quien te hizo bootly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a3aacfe-7dca-440f-ac2a-7c54a6d0605c",
+    "data": [
+      {
+        "text": "QUIEN TE CREO BOOTLY",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c042fde-8fc2-41f3-9f89-b08f41de76d9",
+    "data": [
+      {
+        "text": "quien ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": " tu creador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d0114d1d-818b-442a-a969-51d6c4b9ba68",
+    "data": [
+      {
+        "text": "Vómito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d525c60-bfc9-43a7-83cb-f999e8afc74c",
+    "data": [
+      {
+        "text": "😔",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7592cfad-1b9c-4eb5-a97c-9fb1481969b9",
+    "data": [
+      {
+        "text": "😔 Vómito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

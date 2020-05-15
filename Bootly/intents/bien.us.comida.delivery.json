@@ -1,0 +1,49 @@
+{
+  "id": "3f8988d1-ca1f-4e96-b064-52a8b5a772d2",
+  "parentId": "77933ada-5c29-4315-b34b-87c377bf9fc2",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.us.comida.delivery",
+  "auto": true,
+  "contexts": [
+    "bienuscomida-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.bienus-custom.bienuscomida-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "648a8e03-8b23-4b65-a14d-08a089ae8025",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Aquí puede encontrar una lista de restaurantes con delivery 👉  https://www.google.com/maps/search/delivery/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

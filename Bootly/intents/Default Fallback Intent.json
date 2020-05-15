@@ -1,0 +1,32 @@
+{
+  "id": "6eff124c-df53-415a-9c6d-99d143fbe9f1",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¡Recuerde que fui capacitado para conectarlo con profesionales médicos voluntarios, información sobre el COVID-19 y ayudarlo a identificar los síntomas!\n\n¿En cuál estás interesado?\n👷 Voluntariado\n😃 Información\n🤒 Me siento enfermo"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

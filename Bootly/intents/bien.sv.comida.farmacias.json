@@ -1,0 +1,49 @@
+{
+  "id": "e7d589f5-c266-49e2-af55-ced8c57eab88",
+  "parentId": "47284e36-2f4c-46a4-9477-cb1c042a8c04",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.sv.comida.farmacias",
+  "auto": true,
+  "contexts": [
+    "biensvcomida-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.biensv-custom.biensvcomida-custom-3",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f276730b-0be0-4152-b46f-b85cb2b17ec1",
+          "required": false,
+          "dataType": "@profesiones",
+          "name": "profesiones",
+          "value": "$profesiones",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Aquí puede encontrar una lista de Farmacias cerca de usted 👉 https://www.google.com/maps/search/Farmacias/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

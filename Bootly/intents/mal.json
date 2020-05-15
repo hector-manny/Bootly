@@ -1,0 +1,55 @@
+{
+  "id": "b0457301-60c9-474f-b20e-f148d8235c1b",
+  "name": "mal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "mal-seguimiento",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "mal-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d1fba3a4-8ec8-4670-8305-d3d968c708fa",
+          "required": false,
+          "dataType": "@animo",
+          "name": "animo",
+          "value": "$animo",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Lo más importante es mantener la calma, tenemos un par de preguntas para usted, *¿tiene alguno de los siguientes síntomas?*\n🤒 Fiebre\n🚽 Diarrea\n😷 Tos\n😔 Vómito\n😰 Falta de respiración"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

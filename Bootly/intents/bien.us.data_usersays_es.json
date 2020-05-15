@@ -1,0 +1,60 @@
+[
+  {
+    "id": "55d0de26-d64d-473d-9893-b0b0e4decf8f",
+    "data": [
+      {
+        "text": "Datos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a7b9e88-6eb8-41d0-a9d7-6a06d675b5a9",
+    "data": [
+      {
+        "text": "📉",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "412a67b5-ff54-4e5f-afe3-47c4c3c72c98",
+    "data": [
+      {
+        "text": "Datos en tiempo ",
+        "userDefined": false
+      },
+      {
+        "text": "real",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9a38355-a65d-45bb-9274-a995578c26ab",
+    "data": [
+      {
+        "text": "📉 Datos en tiempo ",
+        "userDefined": false
+      },
+      {
+        "text": "real",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

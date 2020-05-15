@@ -1,0 +1,49 @@
+{
+  "id": "f094c667-e1d3-496d-89f8-1b559da3310c",
+  "parentId": "d3b3be4c-a199-4e67-af82-a8c78cc696a9",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.sv.laboratorios",
+  "auto": true,
+  "contexts": [
+    "biensv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.biensv-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f1dfd694-b056-477c-a17a-d83c331ab03b",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Aquí puede encontrar una lista de Laboratorios especializados en COVID 19 :👉  https://www.google.com/maps/d/u/0/viewer?mid\u003d17v_OdO9BBwrNCqHx8nqauXZET6Sgct_A\u0026ll\u003d13.70000900000001%2C-89.2075251\u0026z\u003d17"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

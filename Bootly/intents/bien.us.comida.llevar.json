@@ -1,0 +1,49 @@
+{
+  "id": "b714cb6b-eae6-4d38-a074-19c746d7beeb",
+  "parentId": "77933ada-5c29-4315-b34b-87c377bf9fc2",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.us.comida.llevar",
+  "auto": true,
+  "contexts": [
+    "bienuscomida-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.bienus-custom.bienuscomida-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f128d386-b7d2-40d9-bbad-94786a17c267",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Aquí puede encontrar una lista de restaurantes con servicio para llevar 👉  https://www.google.com/maps/search/Para+llevar/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

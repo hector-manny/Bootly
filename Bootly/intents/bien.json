@@ -1,0 +1,50 @@
+{
+  "id": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "bien-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "69a44d70-1440-4afb-ad0c-870bb499542d",
+          "required": false,
+          "dataType": "@animo",
+          "name": "animo",
+          "value": "$animo",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Que bueno escuchar eso 😊😃💙 Sigue las recomendaciones!, el primer paso es que seleccione su país:\n🇺🇸 Estados Unidos\n🇸🇻 El Salvador"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

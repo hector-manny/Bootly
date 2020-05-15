@@ -1,0 +1,61 @@
+{
+  "id": "550f5507-45e3-46eb-a911-6bf752b03abc",
+  "parentId": "c243d631-8ef4-46f4-893e-d377379c7cd9",
+  "rootParentId": "c243d631-8ef4-46f4-893e-d377379c7cd9",
+  "name": "voluntario.psicologia",
+  "auto": true,
+  "contexts": [
+    "voluntario-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "voluntario.voluntario-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "890ef9be-52d4-4935-bba2-c9031a16ba65",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9adcb3d3-cf44-4688-80d1-e505fe4fbe7b",
+          "required": false,
+          "dataType": "@profesiones",
+          "name": "profesiones",
+          "value": "$profesiones",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "🙏🏽 💙 Muchas gracias por convertirse en un héroe y ayudar al país en esta emergencia global. *Por favor llena este formulario :*👉   https://forms.gle/qjJ4GuRQjQf14Q7bA"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "08b29ee5-c4f2-48c8-88b2-8d5412063d8a",
+    "data": [
+      {
+        "text": "Tiendas",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad07c2a0-0a53-48cd-80a8-a893dd282916",
+    "data": [
+      {
+        "text": "🛒",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "156eb207-65fe-404e-bd01-a2bff7742d95",
+    "data": [
+      {
+        "text": "🛒 ",
+        "userDefined": false
+      },
+      {
+        "text": "Tiendas",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

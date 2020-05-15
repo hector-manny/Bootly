@@ -1,0 +1,61 @@
+{
+  "id": "6c0f643f-7680-4753-a086-bc385f2361bc",
+  "parentId": "d3b3be4c-a199-4e67-af82-a8c78cc696a9",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.sv.hospitales",
+  "auto": true,
+  "contexts": [
+    "biensv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.biensv-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a639d541-d461-4c27-844a-3061f69f1118",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a0d6a992-2e02-4f3e-aa52-72f25b5c8d3e",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Aquí puede encontrar una lista de hospitales especializados en COVID 19 :👉  https://www.google.com/maps/d/u/0/viewer?mid\u003d1eFGuJrnqAuaQ3YJNWJhHOIzip0qfmhdQ\u0026ll\u003d13.587294224217612%2C-88.734644\u0026z\u003d10"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

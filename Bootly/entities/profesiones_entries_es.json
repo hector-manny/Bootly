@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Medicina",
+    "synonyms": [
+      "medicina",
+      "medico",
+      "enfermera",
+      "doctor",
+      "Medicina"
+    ]
+  },
+  {
+    "value": "farmacia",
+    "synonyms": [
+      "farmacia",
+      "farmaceutico",
+      "Farmacia"
+    ]
+  },
+  {
+    "value": "psicología",
+    "synonyms": [
+      "psicología",
+      "psicologos",
+      "psicologo",
+      "Psicología"
+    ]
+  }
+]

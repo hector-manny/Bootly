@@ -1,0 +1,84 @@
+[
+  {
+    "id": "1bc57a80-b2aa-465e-b6a4-53b1ef611bf0",
+    "data": [
+      {
+        "text": "Mapa",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b269970d-9b61-4ee9-9169-306fc8e471fe",
+    "data": [
+      {
+        "text": "Hospital",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7ee29cd-db3f-403b-89dd-34cef340618e",
+    "data": [
+      {
+        "text": "📍",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "589b921e-5e17-4f7b-a54c-a78ba56cde51",
+    "data": [
+      {
+        "text": "Hospitales",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1d664ac-0286-42d5-8e06-7ac721d142b3",
+    "data": [
+      {
+        "text": "📍   ",
+        "userDefined": false
+      },
+      {
+        "text": "Mapa",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "hospitales",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

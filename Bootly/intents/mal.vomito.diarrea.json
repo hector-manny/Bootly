@@ -1,0 +1,36 @@
+{
+  "id": "3b1ceb10-ebac-4f3a-a3d5-6dee92000da8",
+  "parentId": "acaadbd8-fe22-4905-971b-581494ad3a50",
+  "rootParentId": "b0457301-60c9-474f-b20e-f148d8235c1b",
+  "name": "mal.vomito.diarrea",
+  "auto": true,
+  "contexts": [
+    "malvomito-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mal.mal-custom-2.malvomito-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Mantén la calma, ya te asignamos un especialista para que puedas tener una videollamada de Telemedicina y él te ayudará con algunas pautas para que sigas. Estará disponible en 1 hora en este enlace: https://hangouts.google.com/call/CHSoRVX6tw7YBVA5qYUlAEEE"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "08acdaa1-17ee-4983-ba8e-6809d187f74d",
+    "data": [
+      {
+        "text": "Hospitales",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52d26e61-2066-4511-8d8d-72c8296c2932",
+    "data": [
+      {
+        "text": "🏥",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "528b24e7-b8c2-4503-9392-a93164ad0138",
+    "data": [
+      {
+        "text": "🏥hospitales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "4e2a0bec-d21d-49da-9fbb-943d22fe8f60",
+  "parentId": "af7f4e56-6d2f-4714-b20b-97914aa59dff",
+  "rootParentId": "af7f4e56-6d2f-4714-b20b-97914aa59dff",
+  "name": "Gracias - no",
+  "auto": true,
+  "contexts": [
+    "Gracias-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Gracias.Gracias-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Fue un gusto poder ayudarte! Sigue las recomendaciones. ☺️☺️☺️"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

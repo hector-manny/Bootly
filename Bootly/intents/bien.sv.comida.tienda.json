@@ -1,0 +1,61 @@
+{
+  "id": "d6f8f14d-3172-4732-b9e4-538b338fe718",
+  "parentId": "47284e36-2f4c-46a4-9477-cb1c042a8c04",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.sv.comida.tienda",
+  "auto": true,
+  "contexts": [
+    "biensvcomida-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.biensv-custom.biensvcomida-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a148fa8c-3e43-442a-a3e8-af19d266e0c5",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f3eb7035-180f-48d2-892f-c1c5b48e2340",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Aquí puede encontrar una lista de Tiendas cerca de usted 👉  https://www.google.com/maps/search/Tiendas+de+comestibles/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

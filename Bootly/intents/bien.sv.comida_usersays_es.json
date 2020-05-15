@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9b54afe2-87fc-49c6-b360-918b289b26e6",
+    "data": [
+      {
+        "text": "Higiene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58b5df08-3d1b-4f70-af5b-265939fa48d9",
+    "data": [
+      {
+        "text": "Comida",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0278d1b-bbf3-4385-9628-d45cc14e621b",
+    "data": [
+      {
+        "text": "🍗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36487afb-9885-40ef-97b8-141517f30206",
+    "data": [
+      {
+        "text": "🍗 Encuentra ",
+        "userDefined": false
+      },
+      {
+        "text": "comida",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " o higiene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

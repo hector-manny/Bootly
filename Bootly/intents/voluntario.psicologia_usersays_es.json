@@ -1,0 +1,60 @@
+[
+  {
+    "id": "31c091c5-cd8a-452d-846d-e8b2c4ff23a6",
+    "data": [
+      {
+        "text": "🤓 ",
+        "userDefined": false
+      },
+      {
+        "text": "psicología",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b045734-3635-4fbe-85b6-af226569a586",
+    "data": [
+      {
+        "text": "psicologia",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05d9b46e-372a-4d09-b879-575f69ef3b89",
+    "data": [
+      {
+        "text": "psicología",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f03542c-a321-4c7f-ac94-daab9ec38783",
+    "data": [
+      {
+        "text": "🤓",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

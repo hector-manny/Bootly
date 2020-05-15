@@ -1,0 +1,55 @@
+{
+  "id": "576a7b41-d8d8-43eb-b8b4-d1a0d7405866",
+  "parentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.us",
+  "auto": true,
+  "contexts": [
+    "bien-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom",
+      "affectedContexts": [
+        {
+          "name": "bienus-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7fdf55db-5412-4445-a25c-e70eff7a3360",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Comencemos, puedo ayudarte con:\n📉 Datos en tiempo real\n🏥 Hospitales\n🛒 Comida o higiene\n👩 Motivación y ayuda psicológica\n🚑 Contactos de emergencia\n✅ Consejos\n🛑 Falsas noticias"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

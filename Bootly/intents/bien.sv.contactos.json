@@ -1,0 +1,36 @@
+{
+  "id": "2329a7c5-e6fe-4eb0-92a0-b6d43446378b",
+  "parentId": "d3b3be4c-a199-4e67-af82-a8c78cc696a9",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.sv.contactos",
+  "auto": true,
+  "contexts": [
+    "biensv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.biensv-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "👷‍♂️ Ministerio de trabajó: 130\n🛒 Defensoría del consumidor: 78609704 ó 910\n🦠Casos coronavirus 132\n🚔 Policía nacional civil: 911"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

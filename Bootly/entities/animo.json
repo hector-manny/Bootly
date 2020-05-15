@@ -1,0 +1,9 @@
+{
+  "id": "be5e0362-4ac2-45e6-8701-9aa8c3e15101",
+  "name": "animo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

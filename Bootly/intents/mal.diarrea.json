@@ -1,0 +1,42 @@
+{
+  "id": "fc0ea18c-cc4d-492e-8024-4385c257de4c",
+  "parentId": "b0457301-60c9-474f-b20e-f148d8235c1b",
+  "rootParentId": "b0457301-60c9-474f-b20e-f148d8235c1b",
+  "name": "mal.diarrea",
+  "auto": true,
+  "contexts": [
+    "mal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mal.mal-custom-3",
+      "affectedContexts": [
+        {
+          "name": "maldiarrea-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Tienes alguno de estos otros síntomas?                                                                         \n😰 Falta de respiración                                                                                                                                 😷 Tos                                                                                                                                     😔 Vómito                                                                                                                              \n🤒 Fiebre"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

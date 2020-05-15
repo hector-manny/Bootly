@@ -1,0 +1,55 @@
+{
+  "id": "47284e36-2f4c-46a4-9477-cb1c042a8c04",
+  "parentId": "d3b3be4c-a199-4e67-af82-a8c78cc696a9",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.sv.comida",
+  "auto": true,
+  "contexts": [
+    "biensv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.biensv-custom",
+      "affectedContexts": [
+        {
+          "name": "biensvcomida-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d92ff1f4-060f-463d-b68b-309a362228c8",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Tengo algunas opciones para ti:                                                                                         \n🛵 Delivery\n🥡 Para llevar\n🏪 Tiendas \n⚕️ Farmacias"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

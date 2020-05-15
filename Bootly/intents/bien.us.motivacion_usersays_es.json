@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6d800c81-8110-4859-9024-7b8e35e8d620",
+    "data": [
+      {
+        "text": "👩",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f19c291-cf66-4a0a-9b6f-28f54b443635",
+    "data": [
+      {
+        "text": "Ayuda ",
+        "userDefined": false
+      },
+      {
+        "text": "psicologica",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df965084-ed67-4090-bce0-fc15a4f3c0ca",
+    "data": [
+      {
+        "text": "Motivacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "384783db-7a7b-474a-97f2-3d77c47e728e",
+    "data": [
+      {
+        "text": "Motivación y ayuda ",
+        "userDefined": false
+      },
+      {
+        "text": "psicológica",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f78493a4-2a61-4d06-8359-f84a3877b154",
+    "data": [
+      {
+        "text": "👩 Motivación y ayuda ",
+        "userDefined": false
+      },
+      {
+        "text": "psicológica",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "b7e495e6-0ae7-4fb5-bb28-5131b99d9351",
+    "data": [
+      {
+        "text": "Laboratorio",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29dea4bf-80e3-4f77-b8d1-13d276ac6e80",
+    "data": [
+      {
+        "text": "Laboratorios",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52675bc5-3af5-492b-855d-8f79215d5f32",
+    "data": [
+      {
+        "text": "🔬",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea714dc2-43e6-41c7-89b3-a7d6a057b6ea",
+    "data": [
+      {
+        "text": "🔬 ",
+        "userDefined": false
+      },
+      {
+        "text": "Laboratorios",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

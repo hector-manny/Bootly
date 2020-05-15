@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8c74458c-7027-44c3-b87e-3f1bcdff3d6a",
+    "data": [
+      {
+        "text": "🚚",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2f36c35-dfc4-4f98-a5d9-22edf7dbfa83",
+    "data": [
+      {
+        "text": "Delivery",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe54d92e-e0ae-47da-8a50-35a9ac25138a",
+    "data": [
+      {
+        "text": "🚚 ",
+        "userDefined": false
+      },
+      {
+        "text": "Delivery",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9e162f21-21c5-49ba-b730-16588092e5fd",
+    "data": [
+      {
+        "text": "Números de emergencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b44d875f-0f32-4f6f-929e-7bcee24fdf50",
+    "data": [
+      {
+        "text": "Contactos de emergencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fead1ed8-da3a-4350-8c37-e81222262326",
+    "data": [
+      {
+        "text": "☎️",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7043e220-f274-44d3-a58c-0dcb7e1dfcd9",
+    "data": [
+      {
+        "text": "☎️ Contactos de emergencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

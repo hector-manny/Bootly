@@ -1,0 +1,160 @@
+[
+  {
+    "id": "314e08ba-27ed-4469-b34b-1d093a6b95ed",
+    "data": [
+      {
+        "text": "Quiero ser ",
+        "userDefined": false
+      },
+      {
+        "text": "voluntario",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "955840f3-5f73-4d01-9980-9c739bf456c6",
+    "data": [
+      {
+        "text": "Quiero ayudar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bb04a0e-2bff-443f-aabb-d3f214e4f57d",
+    "data": [
+      {
+        "text": "👷  Quiero ser ",
+        "userDefined": false
+      },
+      {
+        "text": "voluntario",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5589aaa5-0ddb-46b0-b000-524b6078aa77",
+    "data": [
+      {
+        "text": "👷  Quiero ayudar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13f74517-5aad-4f43-95ec-3d213cf75891",
+    "data": [
+      {
+        "text": "👷  Conviérteme en ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "héroe",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7534e39c-3756-4808-9b70-664beaa7d7ae",
+    "data": [
+      {
+        "text": "Conviérteme en ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "héroe",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc9c4bf5-a1b4-41c3-8c24-a7ab450e8e4d",
+    "data": [
+      {
+        "text": "voluntario",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65d4450d-b8f2-4b8e-a11b-cc02f1b32592",
+    "data": [
+      {
+        "text": "Convierteme en ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heroe",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

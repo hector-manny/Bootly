@@ -1,0 +1,55 @@
+{
+  "id": "77c3b28c-97c0-4804-8265-7a3b7760487a",
+  "parentId": "b0457301-60c9-474f-b20e-f148d8235c1b",
+  "rootParentId": "b0457301-60c9-474f-b20e-f148d8235c1b",
+  "name": "mal.fiebre",
+  "auto": true,
+  "contexts": [
+    "mal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mal.mal-custom",
+      "affectedContexts": [
+        {
+          "name": "malfiebre-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "da2b8053-b87b-4fd8-bb2a-ad0bf86f97f5",
+          "required": false,
+          "dataType": "@animo",
+          "name": "animo",
+          "value": "$animo",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Tienes alguno de estos otros síntomas?                                                                         \n 🚽 Diarrea                                                                                                                                  😷 Tos                                                                                                                                     😔 Vómito                                                                                                                              \n😰 Falta de respiración."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "77933ada-5c29-4315-b34b-87c377bf9fc2",
+  "parentId": "576a7b41-d8d8-43eb-b8b4-d1a0d7405866",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.us.comida",
+  "auto": true,
+  "contexts": [
+    "bienus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.bienus-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "762d9bad-f5fc-4426-b906-b4442709b24c",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Tengo algunas opciones para ti:                                                                                         \n🚚 Delivery\n🛍️ Para llevar\n🛒 Tiendas \n💊 Farmacias"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

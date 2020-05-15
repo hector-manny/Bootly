@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2379b74f-2891-495d-84e2-fe61d3197659",
+    "data": [
+      {
+        "text": "🚽Diarrea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5aec4c5-e927-40c3-bea0-28b09c9360ff",
+    "data": [
+      {
+        "text": "🚽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2e52df4-a5de-4f6c-8b2a-cdd1288f313d",
+    "data": [
+      {
+        "text": "Diarrea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

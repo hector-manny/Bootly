@@ -1,0 +1,38 @@
+[
+  {
+    "id": "66bd0da7-b58d-4ea6-b9ee-31ca3d2a6fa2",
+    "data": [
+      {
+        "text": "Consejos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db2d8a0a-2b12-4493-bbba-0481fedc14f5",
+    "data": [
+      {
+        "text": "💡",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c173f1f-4728-4cb2-997a-72c776a8966c",
+    "data": [
+      {
+        "text": "💡  Consejos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

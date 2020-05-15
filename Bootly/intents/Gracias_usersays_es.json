@@ -1,0 +1,53 @@
+[
+  {
+    "id": "c4d6384c-8d25-4e0f-8896-56dd5ff61e99",
+    "data": [
+      {
+        "text": "Gracias",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c98af84e-c6dc-4138-998f-78faf128b4cc",
+    "data": [
+      {
+        "text": "Gracias Bootly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "551c99fd-3fcc-4cdf-bf4f-10648c89afa0",
+    "data": [
+      {
+        "text": "OK",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "af3ffcb3-e8ea-497a-8049-0c90bd148b4f",
+    "data": [
+      {
+        "text": "Muchas gracias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "5b21e967-1783-4af4-987e-e8b73da7a45c",
+  "parentId": "576a7b41-d8d8-43eb-b8b4-d1a0d7405866",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.us.consejos",
+  "auto": true,
+  "contexts": [
+    "bienus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.bienus-custom",
+      "affectedContexts": [
+        {
+          "name": "bienusconsejos-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Aquí tienes algunos consejos 💡 👉 https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+            "Aquí tienes algunos consejos 💡 👉 https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+            "Aquí tienes algunos consejos 💡 👉 https://www.who.int/docs/default-source/coronaviruse/200762-coping-with-stress-during-the-2019-sp.pdf",
+            "Aquí tienes algunos consejos 💡 👉 https://www.covid19parenting.com/spanish"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3dadfe85-bb9a-45e7-a6f5-f7bde84653e4",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Bienvenido, soy Bootly 🤖😷 el bot Anti-COVID y mi objetivo es apoyarlo durante esta emergencia global. ¿Como te sientes hoy?                                                              \n👷  Quiero ser voluntario\n😃 Bien, solo estoy buscando noticias\n🤒 Me siento muy enfermo",
+            "Bienvenido, soy Bootly 🤖😷 el bot Anti-COVID y mi objetivo es apoyarlo durante esta emergencia global. ¿Como te sientes hoy?                                                                \n👷  Quiero ser voluntario\n😃 Bien, solo estoy buscando noticias\n🤒 Me siento muy enfermo",
+            "Bienvenido, soy Bootly 🤖😷 el bot Anti-COVID y mi objetivo es apoyarlo durante esta emergencia global. ¿Como te sientes hoy?                                                              \n👷  Quiero ayudar\n😃 Genial, estoy buscando información\n🤒 Horrible, quiero contactar a un médico",
+            "Bienvenido, soy Bootly 🤖😷 el bot Anti-COVID y mi objetivo es apoyarlo durante esta emergencia global. ¿Como te sientes hoy?                                                              \n👷  Conviértete en un héroe\n😃 Estoy bien, muéstrame noticias\n🤒 Me siento muy mal"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

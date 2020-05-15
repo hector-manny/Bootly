@@ -1,0 +1,36 @@
+{
+  "id": "e8f35e63-0d89-4f36-aadd-190b8b3c7832",
+  "parentId": "b7be6f05-12b3-4ba1-a14e-19893666ddbb",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.sv.motivacion.si",
+  "auto": true,
+  "contexts": [
+    "biensvmotivacion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.biensv-custom-2.biensvmotivacion-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Te asignado un especialista para que puedas tener una videollamada de Telemedicina y él te ayudará con algunas pautas para que sigas. Estará disponible en 1 hora en este enlace: https://hangouts.google.com/call/qHwd_3aV9TROZNTlEKh0AAEEhttps://hangouts.google.com/call/CHSoRVX6tw7YBVA5qYUlAEEE"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

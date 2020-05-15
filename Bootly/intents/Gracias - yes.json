@@ -1,0 +1,36 @@
+{
+  "id": "0e92d6b4-6e27-405d-b03b-eb9dda29c1ff",
+  "parentId": "af7f4e56-6d2f-4714-b20b-97914aa59dff",
+  "rootParentId": "af7f4e56-6d2f-4714-b20b-97914aa59dff",
+  "name": "Gracias - yes",
+  "auto": true,
+  "contexts": [
+    "Gracias-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Gracias.Gracias-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¡Recuerde que fui capacitado para conectarlo con profesionales médicos voluntarios, información sobre el COVID-19 y ayudarlo a identificar los síntomas!\n\n¿En cuál estás interesado?\n👷 Voluntariado\n😃 Información\n🤒 Me siento enfermo"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

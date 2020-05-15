@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c200454b-a6f1-4025-ada9-d7487f2939c9",
+    "data": [
+      {
+        "text": "Fiebre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2342c8d-d605-4df4-bb15-a33bc69a3c79",
+    "data": [
+      {
+        "text": "🤒",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb4626a7-395e-480d-9e9c-84887640d88e",
+    "data": [
+      {
+        "text": "🤒",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      },
+      {
+        "text": " Fiebre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

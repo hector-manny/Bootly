@@ -1,0 +1,58 @@
+[
+  {
+    "id": "9107ded2-e48e-4acf-a32b-def002bc7104",
+    "data": [
+      {
+        "text": "🌡",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4149a0f-546d-49d1-805e-f66b94e23d5a",
+    "data": [
+      {
+        "text": "casos",
+        "alias": "animo",
+        "meta": "@animo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0508d737-ac48-4fe6-9749-5f8bab77ecaa",
+    "data": [
+      {
+        "text": "Datos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d0cdcdf-d676-4ab7-957c-7009c525d9b1",
+    "data": [
+      {
+        "text": "🌡 Datos en tiempo ",
+        "userDefined": false
+      },
+      {
+        "text": "real",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

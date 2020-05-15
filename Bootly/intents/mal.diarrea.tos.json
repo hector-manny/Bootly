@@ -1,0 +1,36 @@
+{
+  "id": "268da74d-9c61-4978-a413-78a2bef5de29",
+  "parentId": "fc0ea18c-cc4d-492e-8024-4385c257de4c",
+  "rootParentId": "b0457301-60c9-474f-b20e-f148d8235c1b",
+  "name": "mal.diarrea.tos",
+  "auto": true,
+  "contexts": [
+    "maldiarrea-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mal.mal-custom-3.maldiarrea-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Mantén la calma, ya te asignamos un especialista para que puedas tener una videollamada de Telemedicina y él te ayudará con algunas pautas para que sigas. Estará disponible en 1 hora en este enlace: https://hangouts.google.com/call/CHSoRVX6tw7YBVA5qYUlAEEE"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

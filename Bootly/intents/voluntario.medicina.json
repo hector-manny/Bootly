@@ -1,0 +1,49 @@
+{
+  "id": "2ae4f953-9e47-4b9f-b019-3dea084d05e3",
+  "parentId": "c243d631-8ef4-46f4-893e-d377379c7cd9",
+  "rootParentId": "c243d631-8ef4-46f4-893e-d377379c7cd9",
+  "name": "voluntario.medicina",
+  "auto": true,
+  "contexts": [
+    "voluntario-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "voluntario.voluntario-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1c956d8c-8d32-48eb-970d-bbcccfc611b2",
+          "required": false,
+          "dataType": "@profesiones",
+          "name": "profesiones",
+          "value": "$profesiones",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "🙏🏽 💙 Muchas gracias por convertirse en un héroe y ayudar al país en esta emergencia global. *Por favor llena este formulario :*👉 https://forms.gle/zQk5kQAuf7cduauXA"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "353f64f4-4bae-4836-a474-eca8852cd7d3",
+  "parentId": "b0457301-60c9-474f-b20e-f148d8235c1b",
+  "rootParentId": "b0457301-60c9-474f-b20e-f148d8235c1b",
+  "name": "mal - no",
+  "auto": true,
+  "contexts": [
+    "mal-seguimiento",
+    "mal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mal.mal-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Ya que no tienes ningun sintoma te puedo ayudar con esto: 👇👇👇\n\n¿En cuál estás interesado? 🤔🤔\n👷 Voluntariado\n😃 Información"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

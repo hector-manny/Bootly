@@ -1,0 +1,42 @@
+{
+  "id": "b7be6f05-12b3-4ba1-a14e-19893666ddbb",
+  "parentId": "d3b3be4c-a199-4e67-af82-a8c78cc696a9",
+  "rootParentId": "b08a88ab-efdc-4733-98c4-13f016174166",
+  "name": "bien.sv.motivacion",
+  "auto": true,
+  "contexts": [
+    "biensv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bien.bien-custom.biensv-custom-2",
+      "affectedContexts": [
+        {
+          "name": "biensvmotivacion-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Quieres ponerte en contacto con un psicologo? 👩‍🦰"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

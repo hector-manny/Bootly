@@ -1,0 +1,40 @@
+[
+  {
+    "id": "8e81be0b-d43b-4adb-b474-9a8755e02893",
+    "data": [
+      {
+        "text": "👨‍⚕️",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8235ebd-d6b4-42a3-9993-528be603adbd",
+    "data": [
+      {
+        "text": "👨‍⚕️ medicina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2198b050-fca2-45c5-a60f-e1e3d61d053c",
+    "data": [
+      {
+        "text": "Medicina",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

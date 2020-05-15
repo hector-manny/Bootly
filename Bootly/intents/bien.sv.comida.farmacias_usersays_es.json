@@ -1,0 +1,78 @@
+[
+  {
+    "id": "6981feab-2827-4360-b2be-1bde9820959b",
+    "data": [
+      {
+        "text": "Farmacia",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0210b9b4-fde8-4607-856a-dbf95929b149",
+    "data": [
+      {
+        "text": "Farmacias",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f245a631-de66-45ea-93fe-2651e361fbd5",
+    "data": [
+      {
+        "text": "⚕️",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaecc528-fb32-481e-a1a9-53bf0759a79e",
+    "data": [
+      {
+        "text": "⚕️ ",
+        "userDefined": false
+      },
+      {
+        "text": "Farmacia",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1738485-4ecd-491a-9d48-2a6d613d82ed",
+    "data": [
+      {
+        "text": "⚕️ ",
+        "userDefined": false
+      },
+      {
+        "text": "Farmacias",
+        "alias": "profesiones",
+        "meta": "@profesiones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

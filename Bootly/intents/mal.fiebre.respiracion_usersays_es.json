@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f7166176-a89d-4115-888d-2180e2693d1b",
+    "data": [
+      {
+        "text": "😰",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd59d925-4621-4cf9-ab7d-94756f5476ad",
+    "data": [
+      {
+        "text": "Falta de respiración",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2b03bfd-f3d4-4e8a-bdd2-b90b01b02487",
+    "data": [
+      {
+        "text": "😰Falta de respiración",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

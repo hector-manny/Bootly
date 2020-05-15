@@ -1,0 +1,74 @@
+[
+  {
+    "id": "34f0ec84-1372-4e97-9b81-ec23f408b6d4",
+    "data": [
+      {
+        "text": "SV",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eabf61fb-f00a-4374-8dd5-9872a4b7cfb0",
+    "data": [
+      {
+        "text": "ESA",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7cd1b357-c3b5-4015-93cc-7e4aa2ddaf82",
+    "data": [
+      {
+        "text": "🇸🇻",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cf1307d-01c4-4896-96b0-9697cb5a8e99",
+    "data": [
+      {
+        "text": "El salvador",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42315d21-b1e7-42e3-b4e0-0215022d809b",
+    "data": [
+      {
+        "text": "🇸🇻 ",
+        "userDefined": false
+      },
+      {
+        "text": "El salvador",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

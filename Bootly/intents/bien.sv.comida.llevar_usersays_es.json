@@ -1,0 +1,58 @@
+[
+  {
+    "id": "4c47eca8-3f85-4bd4-a2f1-4d9007e859ac",
+    "data": [
+      {
+        "text": "🥡",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cf2f2e0-5f3a-4e04-8819-b3d01c450d9f",
+    "data": [
+      {
+        "text": "LLevar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "417438dd-6761-449a-8984-a07855bc2660",
+    "data": [
+      {
+        "text": "Para llevar",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70227e37-cad2-4303-ad68-b3805c0b91da",
+    "data": [
+      {
+        "text": "🥡 ",
+        "userDefined": false
+      },
+      {
+        "text": "Para llevar",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0c06840f-0937-4ee5-b79b-62296bc69eeb",
+    "data": [
+      {
+        "text": "Noticias Falsas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d838474-8ae5-4d40-af0e-40d375afef9e",
+    "data": [
+      {
+        "text": "🚫",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "996bb986-ed2b-4211-8c57-b86709301c8d",
+    "data": [
+      {
+        "text": "🚫 Noticias Falsas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
